@@ -1,0 +1,128 @@
+Cháu trai của cháu gái của bà cố ngoại  bạn là anh em họ thứ hai của bạn đúng hay sai ? 
+false
+Anh trai của cháu gái gọi bạn là chú là cháu của bạn đúng hay sai ? 
+true
+Gieo hai con xúc xắc cân đối. Xác suất để có đúng 1 con xúc xắc xuất hiện mặt 6 chấm là 5/18 đúng hay sai ?
+true
+Gieo hai con xúc xắc cân đối. Xác suất để tổng số chấm xuất hiện trên hai con xúc xắc nhỏ hơn hoặc bằng 7 là 4/9 đúng hay sai ?
+false
+Thắng xe được sinh ra để giúp con người ta chạy chậm hơn đúng hay sai ? 
+false
+Trong Dragon Ball Z, khi nói về lực chiến thì nhân vật vegeta được cho là mạnh nhất đúng hay sai ?
+false
+Trong One Piece, Luffy là nhân vật chính đúng hay sai ? 
+true
+Oda kishimoto là tác giả của bộ truyện tranh naruto đúng hay sai ? 
+false
+Tokyo là thủ đô của Nhật Bản đúng không?
+false
+Bánh mì ngon số dzách đúng không?
+true
+Đom đóm phát sáng khi Jack hát đúng không?
+true
+Bạn đẹp trai đúng không?
+true
+Lịch sử Việt Nam có 4 triều đại phong kiến lớn là: Lý, Trần, Lê, Nguyễn đúng hay sai?
+true
+Trần Quốc Toản là người đã bóp nát quả cam khi nghe tin giặc Nguyên Mông xâm lược đúng hay sai?
+true
+Việt Nam có đường bờ biển dài hơn 3.000 km đúng hay sai?
+true
+Sông Hồng là con sông dài nhất Việt Nam đúng hay sai?
+false
+Bác Hồ ra đi tìm đường cứu nước ngày 05/06/1911 đúng hay sai ?
+true
+ngày 2/9/1945 Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập, khai sinh ra nước Việt Nam Dân chủ Cộng hòa đúng hay sai ?
+true
+Bác Hồ chỉ nói được mỗi tiếng anh đúng hay sai?
+false
+Bác Hồ mất vào năm 1969 đúng hay sai?
+true
+Trang phục truyền thống của Hàn Quốc là HanBoc đúng hay sai
+false
+AI là viết tắt của từ Artificial Intelligence đúng hay sai ?
+true
+Giá trị trung vị của bộ dữ liệu gồm các số sau :" 1 3 7 7 9 10 100" là 7 ở vị trí số 3 đúng hay sai ?
+false
+Tên thật của Tần Thủy Hoàng là Daonh Chính đúng hay sai ?
+true
+Cho hàm số y = (x^2 + x + 7)/(x-1), đồ thị hàm số có 2 điểm cực trị đúng hay sai ? 
+true
+Mặt trời lặn hướng Tây?
+true
+Cầu vòng có chị Hằng Nga?
+false
+Bánh Trung Thu chỉ có vào dịp Noel?
+false
+Vòng tròn có diện tích bằng với bán kính của nó nhân với pi?
+false
+Diện tích hình chữ nhật bằng chiều dài nhân bán kính đúng hay sai?
+false
+Mặt trời mọc đằng đông, lặn đằng tây đúng không?
+true
+Mỗi 4 năm có một năm nhuận đúng không?
+true
+Tốc độ ánh sáng nhanh hơn tốc độ âm thanh?
+true
+Tốc độ bạn chạy nhanh hơn tốc độ mẹ ban phang dép đúng hay sai?
+false
+Thủ đô Việt Nam là Hà Nội đúng không?
+true
+Chọn đáp án điền vào chỗ chấm: ........, tôi là Đóm.
+false
+Cha của vợ của ba bạn gọi là ông nội đúng không?
+false
+Việt Nam có giáp biển đúng không?
+true
+Bác Hồ đọc Tuyên ngôn Độc lập tại Quảng trường Ba Đình vào ngày 2 tháng 9 năm 1945 đúng hay sai?
+true
+Chiến dịch Điện Biên Phủ diễn ra vào năm 1954 và kết thúc thắng lợi cho quân đội Pháp đúng hay sai?
+false
+Châu Phi là châu lục có diện tích lớn nhất trên thế giới đúng hay sai?
+false
+Sa mạc Sahara là sa mạc lớn nhất trên Trái Đất đúng hay sai?
+true
+Hoàng Sa và Trường Sa là của Việt Nam là đúng hay sai?
+true
+Đại học Sư phạm TP. HCM thành lập trường ngày 27/10/2000 đúng hay sai?
+false
+cơ sở 2 của Đại học sư phạm TP HCM ở 222 Đ. Lê Văn Sỹ Phường 14 Quận 3 Hà Nội đúng hay sai?
+false
+Địa chỉ Đại học sư phạm TP HCM ở 280 Đ. An Dương Vương Phường 4 Quận 5 Hồ Chí Minh đúng hay sai?
+true
+Đơn vị tiền tệ cùa Pháp hiện tại là đồng Franc đúng hay sai ?
+false
+Thiên đường du lịch biển Maldive thuộc đất nước Ả Rập đúng hay sai ?
+false
+Có nhận xét sau : "Con Game này của chúng tôi hay mà", nhận xét trên đúng hay sai ?
+true
+Hiện nay trên toàn thế giới có tổng cộng 203 quốc gia đúng hay sai ?
+false
+Bác Hồ sinh ngày 19/5/1890 đúng không?
+true
+Dân tộc Việt Nam ta là con rồng cháu tiên đúng không?
+true
+Khi mượn xe bạn để đi thì lúc trả nên đổ xăng rồi mới trả đúng không?
+true
+Trường Sa, Hoàng Sa là của Việt Nam?
+true
+Biên giới Việt Nam trên đất liền dài 4600km đúng không?
+false
+Thủ đô của Anh là Bangkok đúng không?
+false
+Cuộc cách mạng công nghiệp lần thứ nhất diễn ra chủ yếu tại nước Mỹ đúng hay sai?
+false
+Chiến tranh thế giới thứ nhất bắt đầu vào năm 1939 đúng hay sai?
+false
+Đỉnh núi Everest nằm ở nước Ấn Độ đúng hay sai?
+false
+Hà Nội là thành phố lớn nhất Việt Nam về diện tích đúng hay sai?
+false
+Tên khai sinh của Bác Hồ là Nguyễn Sinh Cung đúng hay sai?
+true
+Quê ngoại của Bác tại làng Hoàng Trù- xã Kim Liên- huyện Nam Đàn- tỉnh Nghệ An đúng hay sai?
+true
+Lãnh thổ Việt Nam có chiều dài xấp xỉ 1.750 km đúng hay sai?
+true
+Việt Nam có diện tích 231.212 km² đúng hay sai?
+false

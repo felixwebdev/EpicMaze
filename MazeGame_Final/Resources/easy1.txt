@@ -1,0 +1,23 @@
+11
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 2 1 1 2 3
+0 0 1 1 1 2 4 0 1 0 0
+0 0 1 0 1 0 0 0 1 0 0
+0 0 1 0 1 1 0 0 1 0 0
+0 1 1 0 0 1 1 0 1 0 0
+0 1 0 0 0 0 2 0 1 0 0
+0 1 1 1 1 1 1 0 1 0 0
+0 0 0 0 0 0 1 0 4 0 0
+0 2 4 1 1 1 1 1 1 0 0
+0 3 0 0 0 0 0 0 0 0 0 
+
+Cháu trai của cháu gái của bà cố ngoại  bạn là anh em họ thứ hai của bạn đúng hay sai ? 
+false
+Anh trai của cháu gái gọi bạn là chú là cháu của bạn đúng hay sai ? 
+true
+Gieo hai con xúc xắc cân đối. Xác suất để có đúng 1 con xúc xắc xuất hiện mặt 6 chấm là 5/18 đúng hay sai ?
+true
+Gieo hai con xúc xắc cân đối. Xác suất để tổng số chấm xuất hiện trên hai con xúc xắc nhỏ hơn hoặc bằng 7 là 4/9 đúng hay sai ?
+false
+Thắng xe được sinh ra để giúp con người ta chạy chậm hơn đúng hay sai ? 
+false

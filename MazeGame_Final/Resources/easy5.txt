@@ -1,0 +1,17 @@
+11
+0 0 0 0 0 0 0 0 3 0 0
+0 1 1 0 0 0 1 2 1 1 0
+0 4 0 1 4 4 1 0 0 0 0
+0 1 0 1 0 1 0 0 1 1 0
+0 1 1 0 0 1 0 1 1 0 0
+0 0 4 1 1 1 0 4 0 1 0
+0 0 1 0 0 0 0 4 0 1 0
+0 0 4 2 4 4 0 4 1 1 0
+0 0 0 4 0 1 1 1 0 1 0
+0 1 1 4 0 0 0 4 1 1 0
+0 3 0 0 0 0 0 0 0 0 0
+
+Lịch sử Việt Nam có 4 triều đại phong kiến lớn là: Lý, Trần, Lê, Nguyễn đúng hay sai?
+true
+Trần Quốc Toản là người đã bóp nát quả cam khi nghe tin giặc Nguyên Mông xâm lược đúng hay sai?
+true

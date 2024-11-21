@@ -1,0 +1,41 @@
+21
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 1 4 1 1 1 4 0 0 0 0 0 0 0 1 1 3 0 0
+0 0 0 1 0 1 0 0 1 4 2 1 1 0 0 1 1 0 0 0 0
+0 0 0 1 0 1 0 0 1 0 0 0 1 2 1 1 0 0 0 0 0
+0 4 4 1 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0
+0 4 0 0 0 1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+0 0 0 2 1 2 0 0 0 0 1 0 0 1 1 1 1 1 1 0 0
+0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0
+0 0 0 1 0 1 1 4 1 1 1 1 0 1 0 0 0 1 1 0 0
+0 0 0 4 0 1 0 0 0 0 1 0 0 1 1 0 0 0 1 0 0
+0 4 4 4 0 4 0 0 1 1 1 0 0 0 1 1 0 0 2 0 0
+0 2 0 0 0 0 0 0 1 0 1 0 4 0 0 1 0 0 4 0 0
+0 2 0 0 4 1 1 0 1 0 1 1 1 0 0 1 0 0 1 0 0
+0 1 0 0 4 0 1 1 1 1 0 0 0 0 0 1 1 0 0 0 0
+0 3 0 0 4 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0
+0 0 1 1 1 0 0 0 0 1 1 1 1 0 0 0 1 0 0 0 0
+0 0 1 0 0 0 1 1 1 0 0 0 1 1 1 1 2 1 1 0 0
+0 0 1 0 0 0 1 0 1 2 4 4 1 0 1 0 0 0 1 0 0
+0 0 1 1 1 0 3 0 0 0 0 0 1 0 4 0 0 0 4 3 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+Mặt trời lặn hướng Tây?
+true
+Cầu vòng có chị Hằng Nga?
+false
+Bánh Trung Thu chỉ có vào dịp Noel?
+false
+Vòng tròn có diện tích bằng với bán kính của nó nhân với pi?
+false
+Diện tích hình chữ nhật bằng chiều dài nhân bán kính đúng hay sai?
+false
+Mặt trời mọc đằng đông, lặn đằng tây đúng không?
+true
+Mỗi 4 năm có một năm nhuận đúng không?
+true
+Tốc độ ánh sáng nhanh hơn tốc độ âm thanh?
+true
+Tốc độ bạn chạy nhanh hơn tốc độ mẹ ban phang dép đúng hay sai?
+false

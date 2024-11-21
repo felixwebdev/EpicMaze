@@ -1,0 +1,20 @@
+11
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 1 1 2 3
+0 0 4 1 1 2 4 0 1 0 0
+0 0 1 0 1 0 0 0 1 0 0
+0 0 1 0 1 1 0 0 1 0 0
+0 1 1 0 0 1 1 0 1 0 0
+0 1 0 0 0 0 1 0 1 0 0
+0 1 1 1 1 1 1 0 1 0 0
+0 0 0 0 0 0 1 0 4 0 0
+0 4 1 1 1 1 2 1 1 0 0
+0 0 0 0 0 0 3 0 0 0 0 
+
+Trong Dragon Ball Z, khi nói về lực chiến thì nhân vật vegeta được cho là mạnh nhất đúng hay sai ?
+false
+Trong One Piece, Luffy là nhân vật chính đúng hay sai ? 
+true
+Oda kishimoto là tác giả của bộ truyện tranh naruto đúng hay sai ? 
+false
+
