@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -33,32 +33,36 @@ namespace MazeGame_Final
         public historyWinner()
         {
             InitializeComponent();
-            FileStream f = new FileStream("data.txt", FileMode.Open, FileAccess.Read);
-            StreamReader sr = new StreamReader(f);
-
-            string data = sr.ReadToEnd();
-            if (data.Length > 2)
+            if (File.Exists("data.txt"))
             {
-                string[] line = data.Split(new[] { '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries);
-                List<objWinner> listPlayer = new List<objWinner>();
-                for (int i = 0; i < line.Length; i += 3)
+                FileStream f = new FileStream("data.txt", FileMode.Open, FileAccess.Read);
+                StreamReader sr = new StreamReader(f);
+
+                string data = sr.ReadToEnd();
+                if (data.Length > 2)
                 {
-                    if (i < line.Length && i + 1 < line.Length && i + 2 < line.Length)
-                    { 
-                        objWinner obj = new objWinner(line[i], int.Parse(line[i + 1]), int.Parse(line[i + 2]));
-                        listPlayer.Add(obj);
+                    string[] line = data.Split(new[] { '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries);
+                    List<objWinner> listPlayer = new List<objWinner>();
+                    for (int i = 0; i < line.Length; i += 3)
+                    {
+                        if (i < line.Length && i + 1 < line.Length && i + 2 < line.Length)
+                        {
+                            objWinner obj = new objWinner(line[i], int.Parse(line[i + 1]), int.Parse(line[i + 2]));
+                            listPlayer.Add(obj);
+                        }
                     }
+
+                    listPlayer.Sort((x, y) => y.AVG().CompareTo(x.AVG()));
+                    dataGridView1.DataSource = listPlayer;
+                    dataGridView1.Columns[0].Width = 160;
+                    dataGridView1.Columns[1].Width = 158;
+                    dataGridView1.Columns[2].Width = 158;
+
+                    generateDeleteALLBtn();
                 }
-
-                listPlayer.Sort((x, y) => y.AVG().CompareTo(x.AVG()));
-                dataGridView1.DataSource = listPlayer;
-                dataGridView1.Columns[0].Width = 160;
-                dataGridView1.Columns[1].Width = 158;
-                dataGridView1.Columns[2].Width = 158;
-
-                generateDeleteALLBtn();
+                f.Close();
             }
-            f.Close();
+            
         }
         private void generateDeleteALLBtn()
         {
